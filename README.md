@@ -1,4 +1,4 @@
-# GV Player
+# GV Player for MacOS
 
 A high-quality, open-source video player for macOS built with C++17, Qt 6, and libmpv.
 
